@@ -8,10 +8,10 @@
   "tvOS" : [
 
   ],
-  "commitish" : "1.0.0",
+  "commitish" : "4b7810863df813b7e6016a7dc8ef1c71fdde1e73",
   "iOS" : [
     {
-      "hash" : "7c19ef6e7a66b5374a6482f7698f54be9906dcb7d71077518f08b61a026ad3bf",
+      "hash" : "3678f61d85b7f579aa1a1e77bda19ddcc232fecbc6004098f7cb68e3dd7e6f04",
       "name" : "Core",
       "linking" : "dynamic",
       "swiftToolchainVersion" : "5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
